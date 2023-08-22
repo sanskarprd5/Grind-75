@@ -1,4 +1,4 @@
-function TwoSum(nums, target) {
+function twoSum(nums, target) {
   // Create a Map to store the elements and their indices
   let map = new Map();
   
